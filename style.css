@@ -1,0 +1,50 @@
+#main_content{margin-top:30px;border-bottom:1px solid black;}
+#new_in{width:49.5%;border:1px solid blue;float:left;}
+#new_in1{}
+
+.chart{border:1px solid black;float:left;padding:5px;margin:5px;}
+#head_new_in{width:99.9%;background:black;color:white;}
+#product_container{ float:left;padding:5px;width:200px;height:250px;margin-top:5px;}
+#product_container a{text-decoration:none;color:red;position:absolute;margin-top:-220px;margin-left:110px;}
+#product_container h4{color:red;margin-top:0px;}
+#header{background:#E8E8FF;height:200px;}
+.hot{color:red;}
+#head{color:red;}
+#new_chart{border:1px solid green;float:left;}
+#nav{background:white;border-top:1px solid green;border-bottom:1px solid green;}
+#nav li{display:inline;color:green;padding:10px;}
+#nav img{margin-top:-50px;float:right;}
+#nav a{text-decoration:none;color:green;}
+#nav h3{color:blue;}
+#header{}
+#header h2{color:green;padding:5px;}
+#header h3{margin-left:1000px;color:red;}
+#logo{position:absolute;margin-top:-180px;}
+#brand{height:250px;border-bottom:1px solid gray;}
+#form{background:green; width:360px;height:320px;padding:5px;padding-top:15px;border:1px solid red;margin-top:160px;}
+#qty_form{margin-top:-20px;background:#AAAAAB;margin-right:18px;}
+#but{background:red;}
+#total{position:absolute;float:right;color:red;margin-top:-30px;margin-left:83%;}
+#foot{background:#908F42;color:red;height:120px;margin-top:800px;padding-top:18px;}
+
+
+
+
+
+
+
+
+
+
+
+#ad_order{float:left;background:blue;color:white;padding:5px;margin:5px;}
+#view_order{margin-top:20px;margin-left:250px;background:;color:blue;width:600px;}
+#cont{background:black;color:red;height:30px;width:51%;padding:5px;margin-left:-170px;}
+#v_code{background:red;margin-top:5px;margin-left:45px;margin-right:45px;float:left;padding:3px;color:black;}
+#v_code a{background:green;text-decoration:none;padding:3px;color:white;}
+#add_form{margin-top:20px;margin-left:240px;width:50%;background:blue;color:white;padding:10px;margin-bottom:100px;}
+#admin_log{background:blue;color:white;border:2px solid red; padding:20px;margin-left:500px;margin-top:200px;width:300px;}
+#admin_log h3{color:red;margin-left:30px;margin-top:-5px;}
+#out a{float:rigt;text-decoration:none;color:red;position:absolute;margin-left:1250px;margin-top:-50px;}
+#search{position:absolute;margin-left:1070px;color:green;margin-top:-30px;}
+#fav{position:absolute;margin-left:-110px;margin-top:00px;}
